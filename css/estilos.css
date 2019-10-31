@@ -15,9 +15,10 @@ body
 }
 #cabecera
 {
-    background: #f6f6f6;
+    background: #333;
+    color: #fff;
     font-weight: 900;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 1rem;
     border-radius: 0.8rem;
     text-transform: uppercase;
