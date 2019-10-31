@@ -22,3 +22,11 @@ body
     border-radius: 0.8rem;
     text-transform: uppercase;
 }
+.post
+{
+    border-bottom: 1px dotted #eee;
+}
+.post:last-child
+{
+    border: none;
+}
