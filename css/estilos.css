@@ -30,3 +30,13 @@ body
 {
     border: none;
 }
+#footer
+{
+    background: #333;
+    color: #fff;
+    font-weight: 900;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 1rem;
+    border-radius: 0.8rem;
+    text-transform: uppercase;
+}
