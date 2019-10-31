@@ -25,11 +25,18 @@ body
 }
 .post
 {
-    border-bottom: 1px dotted #eee;
+    width: 50%;
+    float: left;
 }
 .post:last-child
 {
     border: none;
+}
+.content {
+	border: 1px solid;
+	padding: 2rem;
+	margin: 1rem;
+	border-radius: 0.8rem;
 }
 #footer
 {
@@ -40,4 +47,5 @@ body
     padding: 1rem;
     border-radius: 0.8rem;
     text-transform: uppercase;
+    clear: both;
 }
